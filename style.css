@@ -1,0 +1,13 @@
+body{
+    background-color: chocolate;
+}
+button{
+   
+    height: 70;
+    width: 200;
+    font-size: 35px;
+}
+.name_of_objects{
+    font-size: 33px;
+    font-weight: 800;
+}
